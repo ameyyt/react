@@ -1,0 +1,7 @@
+1.What is Emmet?
+	
+It allows to add shortcuts and then they are expended in full code which saves a lot of time for developers
+	
+
+2.Difference between a Library and Framework?	
+
